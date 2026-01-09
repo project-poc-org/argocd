@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/your-org/argocd-config.git
+    repoURL: https://github.com/project-poc-org/argocd-config.git
     targetRevision: main
     path: applications  # folder with all your Application manifests
   destination:
